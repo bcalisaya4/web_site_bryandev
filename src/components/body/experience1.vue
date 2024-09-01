@@ -13,15 +13,15 @@
                         <div class="education-content">
                             <div class="content">
                                 <div class="year">
-                                    <img class="calendar-icon" src="src\assets\icons\calendar-icon.png" alt="Calendario">
+                                    <!--img class="calendar-icon" src="src\assets\icons\calendar-icon.png" alt="Calendario"-->
                                      2017 - 2022
                                 </div>
-                                <h3>Master Degree - University</h3>
+                                <h3>Bachiller - UTP</h3>
                                 <p>
-                                    Lorem ipsum, dolor sit amet consectetur adipisicing elit.
-                                    Dolore amet rem nulla voluptas temporibus, excepturi tempora
-                                    repellendus eveniet sint sed maiores deleniti! Qui quis
-                                    distinctio quo nam sunt commodi eveniet!
+                                    Obtuve el grado de Bachiller en Ingenieria de Sistemas e informatica en la Univesidad Tecnológica del Perú, 
+                                    donde también fui miembro activo del grupo de investigación de la universidad. 
+                                    Durante mi participación en este grupo, me permitió profundizar en bases de datos y scraping y 
+                                    fortalecer mi capacidad analítica y de investigación.
                                 </p>
                             </div>
                         </div>
@@ -48,15 +48,15 @@
                         <div class="education-content">
                             <div class="content">
                                 <div class="year">
-                                    <img class="calendar-icon" src="src\assets\icons\calendar-icon.png" alt="Calendario">
+                                    <!--img class="calendar-icon" src="src\assets\icons\calendar-icon.png" alt="Calendario"-->
                                      2021 - 2023
                                 </div>
                                 <h3>Developer - VEOX</h3>
                                 <p>
-                                    Lorem ipsum, dolor sit amet consectetur adipisicing elit.
-                                    Dolore amet rem nulla voluptas temporibus, excepturi tempora
-                                    repellendus eveniet sint sed maiores deleniti! Qui quis
-                                    distinctio quo nam sunt commodi eveniet!
+                                    Lideré un equipo de desarrollo utilizando Vue.js y Django con Python para un sistema de detección de tareas.
+                                    Proporcioné soporte a sistemas internos en Vue.js y Nest (TypeScript).
+                                    Desarrollé y ejecuté pruebas de software para asegurar la calidad de los productos.
+                                    Gestioné tareas adicionales en Gatsby, Nest.js, Vue, C#, y scripts en Python para procesamiento de imágenes satelitales.
                                 </p>
                             </div>
                         </div>

@@ -18,7 +18,7 @@ const mobileMenu = ref({
     <div>
         <div class="container_header">
             <div class="logo">
-                <img src="src\assets\images\logo_perfil.png" alt="logo de la marca">
+                <!--img src="src\assets\images\logo_perfil.png" alt="logo de la marca"-->
             </div>
             <div class="sections-page">
                 <nav>
